@@ -1,3 +1,1 @@
-hello, welcome to the python world
-my name is Rakhi dahekar
-I am studying in fy mca in imcc college
+welcome to the magical world of pythonthis is the appended text in your file,Rakhi dahekarthis is the appended text in your file,Rakhi dahekar
